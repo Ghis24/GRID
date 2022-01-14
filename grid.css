@@ -1,0 +1,17 @@
+body{
+    box-sizing: border-box;
+}
+
+.container{
+    border:5px solid;
+    background-color: white;
+    /* width: 600px;
+    height:400px; */
+    align-items: center;
+    display:grid;
+    grid-template-columns: 20% 20% 20% 20% 20% 20% 20% 20% 20% 20% 20% 20% 20%;
+    grid-template-rows: 20% 20% 20% 20% 20% 20% 20% 20% 20% 20% 20% 20% 20% 20% 20% 20% 20%;
+    
+
+}
+
