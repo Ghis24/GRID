@@ -6,7 +6,7 @@ section{
     width: auto;
     height: auto;
     border:5px solid black;
-    /* padding:5px; */
+    padding:5px; 
     display:grid;
     background-color: black;
     grid-template-columns: repeat(13, 1fr);
@@ -15,7 +15,7 @@ section{
     
 }
 
-/* besoin de noté les couleurs ??
+/*  
 
 noir{
     background-color: black; 
@@ -44,15 +44,15 @@ blanc{
 }
 
 #cell2{
-   grid-column: 2/8;
+   grid-column: 2/7;
    grid-row: 0/4;
     background-color:white;
 }
 
 #cell3{
-    grid-column:8/11;
-    grid-row: 0/2;
-    background-color: white ;
+    grid-column:7/12;
+    grid-row: 0/4;
+    background-color: white;
 }
 
 #cell4{
@@ -66,7 +66,7 @@ blanc{
     background-color: yellow;
 }
 #cell6{
-    grid-column:2/8;
+    grid-column:2/7;
     grid-row:2/3;
     background-color: blue;
 }
@@ -167,7 +167,7 @@ blanc{
 #cell25{
     
     grid-column:4/5;
-    grid-row: 4/9;
+    grid-row: 4/8;
     background-color:yellow ;
 }
 #cell26{
